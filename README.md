@@ -1,6 +1,8 @@
 Installation:
 Clone the repository:
 git clone https://github.com/sharansajjan161/Python_Project.git
+cd Python_Project
+ls
 
 No external dependencies required (uses built-in os and shutil modules)
 
